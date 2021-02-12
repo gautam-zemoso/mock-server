@@ -215,84 +215,71 @@
       "is_playlist_added": true,
       "page_read": 0,
       "reading_state": "Start reading"
-    },
-    {
-      "id": 13,
-      "title": "Inorganic chemistry",
-      "author_name": "Carlos Gonzalez",
-      "total_reviews": "1204",
-      "avg_rating":4,
-      "total_page": 200,
-      "category": "History",
-      "summary": "Organic chemistry ",
-      "description":"Through a series of recent breakthroughs,",
-      "cover_image": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/4BE32CBD-E049-4509-9B65-FF01B88B5D89.png",
-      "release_date": "12 sep 1998",
-      "language": "English",
-      "is_saved": true,
-      "is_playlist_added": true,
-      "page_read": 0,
-      "reading_state": "Start reading"
-    },
-    {
-      "id": 14,
-      "title": "English Grammar",
-      "author_name": "Carlos Gonzalez",
-      "total_reviews": "1204",
-      "avg_rating":4,
-      "total_page": 200,
-      "category": "Geography",
-      "summary": "Organic chemistry",
-      "description":"Through a series of recent breakthroughs,",
-      "cover_image": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/2C111F40-39DF-4819-AE2A-97EA0FB5C314.png",
-      "release_date": "12 sep 1998",
-      "language": "English",
-      "is_saved": true,
-      "is_playlist_added": true,
-      "page_read": 0,
-      "reading_state": "Start reading"
     }
   ],
-  "topics" : [
+  "review" : [
     {
-      "id": 1,
-      "name": "Hindi",
-      "image": "Hindi"
+      "id": "review1",
+      "bookId": 1,
+      "rating": 4,
+      "review": "Still a very nice Book, I got stuck at a place where I thought the problem was overprinting, or rather someone told me it was that. but it as simply just a mistake where I accidentally had set the box object (under effects [Effects panel can be found in the",
+      "likes": 15,
+      "is_liked": true,
+      "date_posted": "1 months ago",
+      "dislikes": 2,
+      "is_disliked": false,
+      "user": {
+        "name": "Mounavi Ramesh",
+        "image_url": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/302EA847-4DEE-4DE2-B8A0-DCC9CE94AA2D.png",
+        "about": "Professor at Harvard University"
+      },
+      "comments": [
+        {
+          "id": "review1comment1",
+          "comment": "A really thoughtful piece",
+          "likes": 7,
+          "is_liked": true,
+          "dislikes": 2,
+          "is_disliked": false,
+          "user": {
+            "name": "Pranitha",
+            "image_url": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8D1CA0C4-4BED-4616-A2B3-28DC74375748.png",
+            "about": "Professor at Harvard University"
+          }
+        }
+      ]
     },
     {
-      "id": 2,
-      "name": "English",
-      "image": "Eng"
-    },
-    {
-      "id": 3,
-      "name": "Physics",
-      "image": "phy"
-
-    },
-    {
-      "id": 4,
-      "name": "Social",
-      "image": "phy"
-
-    }
-  ],
-  "categories": [
-    {
-      "id": 1,
-      "name": "Chemistry"
-    },
-    {
-      "id": 2,
-      "name": "Physics"
-    },
-    {
-      "id": 3,
-      "name": "Maths"
-    },
-    {
-      "id": 4,
-      "name": "Biology"
+      "id": "review2",
+      "book_id": 1,
+      "rating": 4,
+      "review": "I haven't read the first book by the author but once I started reading this latest release, I got completely hooked!",
+      "likes": 70,
+      "is_liked": true,
+      "dislikes": 19,
+      "is_disliked": false,
+      "date_posted": "1 months ago",
+      "user": {
+        "name": "Pranitha",
+        "image_url": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/8D1CA0C4-4BED-4616-A2B3-28DC74375748.png",
+        "about": "Professor at Harvard University"
+      },
+      "comments": [
+        {
+          "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+          "comment": "I feel uncharitable criticizing a book so personal to the author and so relatable to me",
+          "likes": 9,
+          "is_liked": true,
+          "dislikes": 0,
+          "is_disliked": false,
+          "user": {
+            "name": "Mounavi Ramesh",
+            "image_url": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/302EA847-4DEE-4DE2-B8A0-DCC9CE94AA2D.png",
+            "about": "Professor at Harvard University"
+          }
+        }
+      ]
     }
   ]
+
 }

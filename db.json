@@ -251,7 +251,7 @@
     },
     {
       "id": "review2",
-      "book_id": 1,
+      "book_id": 2,
       "rating": 4,
       "review": "I haven't read the first book by the author but once I started reading this latest release, I got completely hooked!",
       "likes": 70,

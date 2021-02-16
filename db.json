@@ -1,5 +1,5 @@
 {
-  "bookDetails": [
+  "books": [
     {
       "id": 1,
       "title": "Inorganic chemistry",
@@ -217,7 +217,7 @@
       "reading_state": "Start reading"
     }
   ],
-  "review" : [
+  "reviews" : [
     {
       "id": "review1",
       "bookId": 1,

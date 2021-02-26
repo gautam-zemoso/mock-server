@@ -19,8 +19,8 @@
       "reading_state": "Currently Reading"
     },
     {
-      "id": 2,
-      "title": "Inorganic chemistry",
+      "id": "91a9213b-9f70-44ae-9e76-8fa9891e215d",
+      "title": "Concise Inorganic chemistry",
       "author_name": "Joe Pearson",
       "total_reviews": "1204",
       "avg_rating":4.5,
@@ -28,7 +28,7 @@
       "category": "Vocabulary",
       "summary": "It's the study about inorganic compounds",
       "description":"Through a series of recent breakthroughs.",
-      "cover_image": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/4BE32CBD-E049-4509-9B65-FF01B88B5D89.png",
+      "cover_image": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/19709E25-7BBE-4E66-8C4B-E83184539737.png",
       "release_date": "12 sep 1998",
       "language": "English",
       "is_saved": true,
@@ -37,7 +37,7 @@
       "reading_state": "Start reading"
     },
     {
-      "id": 3,
+      "id": "8e962635-1a01-48b8-9f7c-d77c6679f6a8",
       "title": "Natural Chemistry",
       "author_name": "J D Lee",
       "total_reviews": "1204",
@@ -55,7 +55,7 @@
       "reading_state": "Start reading"
     },
     {
-      "id": 4,
+      "id": "46d0dbb0-f554-4bff-b227-2bce9ddce751",
       "title": "Organic Chemistry",
       "author_name": "J D Lee",
       "total_reviews": "1204",

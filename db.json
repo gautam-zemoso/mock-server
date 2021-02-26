@@ -197,24 +197,6 @@
       "is_playlist_added": true,
       "page_read": 0,
       "reading_state": "Start reading"
-    },
-    {
-      "id": 12,
-      "title": "English Grammar",
-      "author_name": "Carlos Gonzalez",
-      "total_reviews": "1204",
-      "avg_rating":4,
-      "total_page": 200,
-      "category": "Calculus",
-      "summary": "Organic chemistry",
-      "description":"Through a series of recent breakthroughs.",
-      "cover_image": "https://cdn.zeplin.io/5f03041d8c8fc11335546618/assets/7AE68B73-7512-4AED-BE9F-881F1BB4B173.png",
-      "release_date": "12 sep 1998",
-      "language": "English",
-      "is_saved": true,
-      "is_playlist_added": true,
-      "page_read": 0,
-      "reading_state": "Start reading"
     }
   ],
   "reviews" : [
